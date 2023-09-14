@@ -52,6 +52,6 @@ h1 {
 
 @media (max-width: 1080px) {
     .mooncake {
-        max-width: 100%; /* Set the max-width for mobile screens */
+        width: 100%; /* Set the max-width for mobile screens */
     }
 }
