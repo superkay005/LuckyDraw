@@ -2,10 +2,6 @@ body {
 	background-color: #000000;
 	font-family: 'Poppins', sans-serif;
 	color: #fff;
-	background-size: 800px 800px;
-	background-position: left -440px top -240px;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
 }
 
 h1 {
