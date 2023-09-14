@@ -50,7 +50,7 @@ h1 {
 	border-color: #fff;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1200px) {
     .mooncake {
         width: 100%; /* Set the max-width for mobile screens */
     }
