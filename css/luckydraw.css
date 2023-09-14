@@ -44,6 +44,7 @@ h1 {
 	font-size: 22px;
 	color: #000000;
 	font-family: 'Poppins', sans-serif;
+	-webkit-appearance: none;
 }
 .btn:hover{
 	background-color: darkgray;
