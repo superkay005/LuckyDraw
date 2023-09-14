@@ -1,0 +1,50 @@
+body {
+	background-color: #000000;
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+	background-size: 800px 800px;
+	background-position: left -440px top -240px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	color: #fff;
+}
+
+.logo{
+	width: 400px;
+}
+.rabbit{
+	width: 800px;
+}
+
+#eventname {
+        color: #fff;
+        font-size: 37px;
+		margin: 15px;
+}
+
+#sessionname {
+        color: #fff;
+        font-size: 28px;
+		margin: 15px;
+}
+
+#luckyperson {
+	font-size: 110px;
+}
+
+.btn{
+	margin: 20px;
+	background-color: #fff;
+	width: 280px;
+	font-size: 22px;
+	font-family: 'Poppins', sans-serif;
+}
+.btn:hover{
+	background-color: darkgray;
+	border-color: #fff;
+}
+
+
