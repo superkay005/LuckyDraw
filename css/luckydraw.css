@@ -22,7 +22,7 @@ h1 {
 #eventname {
         color: #fff;
         font-size: 37px;
-		margin: 15px;
+		margin-bottom: 15px;
 }
 
 #sessionname {
@@ -32,11 +32,11 @@ h1 {
 }
 
 #luckyperson {
-	font-size: 110px;
+	font-size: 100px;
 }
 
 .btn{
-	margin: 20px;
+	margin: 5px;
 	background-color: #fff;
 	width: 280px;
 	font-size: 22px;
