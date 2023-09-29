@@ -2,7 +2,6 @@ body {
 	background-color: #000000;
 	font-family: 'Poppins', sans-serif;
 	color: #fff;
-	margin: auto;
 	text-align: center;
 }
 
@@ -21,13 +20,13 @@ h1 {
 #eventname {
         color: #fff;
         font-size: 37px;
-	margin-bottom: 10px;
+		margin-bottom: 10px;
 }
 
 #sessionname {
         color: #fff;
         font-size: 24px;
-	margin: 10px;
+		margin: 10px;
 }
 
 #luckyperson {
@@ -42,11 +41,15 @@ h1 {
 	font-size: 22px;
 	color: #000000;
 	font-family: 'Poppins', sans-serif;
-	-webkit-appearance: none;
 }
 .btn:hover{
 	background-color: darkgray;
 	border-color: #fff;
+}
+
+.horizontal-line {
+    border: 2px dot #fff; /* Example border style */
+    margin: 10px 0; /* Example margin to separate lines */
 }
 
 @media (max-width: 1200px) {
